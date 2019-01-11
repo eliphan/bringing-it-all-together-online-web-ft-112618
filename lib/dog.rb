@@ -39,7 +39,7 @@ class Dog
     dog
   end
   
-  def se;f.find_or_create_by(name:, album:)
+  def self.find_or_create_by(name:, album:)
     
   end
   
